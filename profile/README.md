@@ -1,6 +1,7 @@
 ## MyMeds
 ### Endpoints
-
+``` api/v1/rx
+```
 <!--
 
 **Here are some ideas to get you started:**
