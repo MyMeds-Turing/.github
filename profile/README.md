@@ -1,4 +1,11 @@
 ## MyMeds
+<hr>
+
+<p align="center">
+  <a href="https://mymeds-turing.github.io" target="_blank" rel="noopener noreferrer"><img src="./docs/images/gear_up_long_logo.png" alt="logo" width="80%"/></a>
+</p>
+
+<hr>
 
 <!--
 
