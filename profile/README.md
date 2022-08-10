@@ -8,4 +8,4 @@
 <hr>
 
 ## Description
-MyMeds is a medication inventory, tracking and notifcation application.  It displays a user's medications in a simple consolidiated way showing dose, amount and timing.  MyMeds is also a reminder service via visual, email and sms text messages to enusre a user does not miss a dose and when they can retake thier meds.
+MyMeds is a medication inventory, tracking and notification application. It displays a user’s medications in a simple consolidated way showing dose, amount and timing. MyMeds is also a reminder service via visual, email and sms text messages to ensure a user does not miss a dose and when they can retake their meds.
