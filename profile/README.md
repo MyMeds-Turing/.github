@@ -2,6 +2,7 @@
 ## [Video Demonstration](https://youtu.be/QB9f50VWeeg)
 <hr>
 
+## Click the MyMeds logo below to see the deployed app!
 <p align="center">
   <a href="https://mymeds-turing.github.io/my_meds_fe/" target="_blank" rel="noopener noreferrer"><img src="./MyMeds.png" alt="logo" width="80%"/>
 </p>
