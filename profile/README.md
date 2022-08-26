@@ -1,5 +1,5 @@
 # MyMeds
-## [Video Demonstration](https://youtu.be/QB9f50VWeeg)
+## [Video of MyMeds Development Process and App Demo](https://www.youtube.com/watch?v=iAHQR-A3Tcg)
 <hr>
 
 ## Click the MyMeds logo below to see the deployed app!
