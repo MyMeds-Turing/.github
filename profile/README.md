@@ -5,14 +5,10 @@ MyMeds is a medication inventory, tracking and notification application. It disp
 
 This was the Capstone Project for Turing School of Software and Design's Front End and Back End Engineering program and won first place in Turing's Demo Competition. 
 
-## [Check Out Our Video to See Our Development Process and App Demo!](https://www.youtube.com/watch?v=iAHQR-A3Tcg)
-<hr>
-
-## Click the MyMeds logo below to see the deployed app!
+## Click the MyMeds logo below to see the deployed app: 
 <p align="center">
   <a href="https://mymeds-turing.github.io/my_meds_fe/" target="_blank" rel="noopener noreferrer"><img src="./MyMeds.png" alt="logo" width="80%"/>
 </p>
-
 <hr>
 
 ---
@@ -21,6 +17,8 @@ From the dashboard, the user can see their current medications. If it's time to 
 
 If the user needs to add a new medication, they can click on the ###Add Meds## button in the top right of the screen. From that page the user can search through a list of FDA approved medications. Once they've found their med, they can continue to fill out necessary details, such as the quantity in the prescription, how often they should take their med, and any other reminders, including if they should take that med with food or avoid alcohol. 
 
+## [Check Out Our Video to See Our Development Process and App Demo!](https://www.youtube.com/watch?v=iAHQR-A3Tcg)
+<hr>
 
 ----
 ## Contributors
