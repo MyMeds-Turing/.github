@@ -3,7 +3,7 @@
 ## About the Project
 MyMeds is a medication inventory, tracking and notification application. It displays a user’s medications in a simple consolidated way showing dose, amount and timing. MyMeds is also a reminder service via visual, email and sms text messages to ensure a user does not miss a dose and when they can retake their meds.
 
-This was the Capstone Project for Turing School of Software and Design's Front End and Back End Engineering program and won first place in Turing's Demo Competition. 
+This was the Capstone Project for Turing School of Software and Design's Front End and Back End Engineering programs and won first place in Turing's Demo Competition. 
 
 ## Click the MyMeds logo below to see the deployed app: 
 <p align="center">
