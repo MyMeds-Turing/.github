@@ -45,6 +45,10 @@ If the user needs to add a new medication, they can click on the ###Add Meds## b
 * Javascript
 * HTML/CSS
 
+## [Front End Repo](https://github.com/MyMeds-Turing/my_meds_fe)
+
+## [Back End Repo](https://github.com/MyMeds-Turing/my_meds_be)
+
 ## **Future Iteration Goals**
 * SMS and email reminders when it is time for users to take their medication.
 * SMS and email reminders when users are running low on stock of a specific medication and need to get a refill from their doctor.
