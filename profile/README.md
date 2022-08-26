@@ -15,7 +15,7 @@ This was the Capstone Project for Turing School of Software and Design's Front E
 ## Using the Application
 From the dashboard, the user can see their current medications. If it's time to take their meds, they can click the ### Take My Meds ### button to start the timer for when they will next need to take them. The user will also receive email and text notifications when it's time to take their meds. If a user no longer needs their medication reminders, they can choose to delete any med from their dashboard.
 
-If the user needs to add a new medication, they can click on the ###Add Meds## button in the top right of the screen. From that page the user can search through a list of FDA approved medications. Once they've found their med, they can continue to fill out necessary details, such as the quantity in the prescription, how often they should take their med, and any other reminders, including if they should take that med with food or avoid alcohol. 
+If the user needs to add a new medication, they can click on the **Add Meds** button in the top right of the screen. From that page the user can search through a list of FDA approved medications. Once they've found their med, they can continue to fill out necessary details, such as the quantity in the prescription, how often they should take their med, and any other reminders, including if they should take that med with food or avoid alcohol. 
 
 ## [Check Out Our Video to See Our Development Process and App Demo!](https://www.youtube.com/watch?v=iAHQR-A3Tcg)
 <hr>
