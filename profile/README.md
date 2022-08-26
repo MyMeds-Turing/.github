@@ -26,6 +26,7 @@ If the user needs to add a new medication, they can click on the ###Add Meds## b
 ## Contributors
 ### Back End Team
 - [John Hennerich](https://github.com/jhennerich) 
+- [Max Wagner](https://github.com/MWagner3)
 - [Zel Imbriaco](https://github.com/zel-imbriaco) 
 - [Katy Harrod](https://github.com/mcharrod) 
 
