@@ -6,6 +6,7 @@ MyMeds is a medication inventory, tracking and notification application. It disp
 This was the Capstone Project for Turing School of Software and Design's Front End and Back End Engineering programs and won first place in Turing's Demo Competition. 
 
 ## Click the MyMeds logo below to see the deployed app: 
+Please note, this app was previously deployed on Heroku's free account and is no longer actively deployed for viewing. 
 <p align="center">
   <a href="https://mymeds-turing.github.io/my_meds_fe/" target="_blank" rel="noopener noreferrer"><img src="./MyMeds.png" alt="logo" width="80%"/>
 </p>
